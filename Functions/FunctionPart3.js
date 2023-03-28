@@ -12,7 +12,6 @@ function getMilk(money, costPerBottle) {
     
   console.log("I can buy " + calcBottles(money, costPerBottle) + " bottles"); 
 
-    
   console.log("moveLeft");
   console.log("moveLeft");
   console.log("moveDown");
