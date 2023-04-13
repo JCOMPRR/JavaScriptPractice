@@ -27,9 +27,6 @@
 
 
 //Codigo de Calculadora de 2 numeros para bitwise
-var num1;
-var num2;
-
 function bitwiseAND(num1, num2){
   const resAND = num1 & num2;
 
